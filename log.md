@@ -1,30 +1,21 @@
-# 100 Days Of Code - Log
+# #100DaysOfCode Log - Round 1 - [Juan Burgos]
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+The log of my #100DaysOfCode challenge. Started on [November 27, Monday, 2017].
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+## Log
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### R1D1 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress**: Made it up to how to use CSS Selectors to Style Elements. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Thoughts**: **#CodeNewbie** here.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to get the **Front End Development Certification**. After dropping out from a code bootcamp [which I have no longer the need to mention ;-)] it feels very weird to be back at this. Maybe the guilt of failure is haunting me and trying scare me away of doing the right thing and facing the challenge once again.
 
 
-### Day 1: June 27, Monday
+### R1D2
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Thoughts**:
