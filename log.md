@@ -15,7 +15,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D2
 
-**Today's Progress**:
+**Today's Progress**: Learned: How to style multiple elements with a CSS Class, importing Google fonts, adding & resizing images, adding styled borders to elements.
 
 
-**Thoughts**:
+**Thoughts**: I finally get to understand how a class works from a very basic perspective. I felt good today since I understood every challenge without blocking out.
