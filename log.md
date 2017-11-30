@@ -19,3 +19,19 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 
 **Thoughts**: I finally get to understand how a class works from a very basic perspective. I felt good today since I understood every challenge without blocking out.
+
+
+### R1D3
+
+**Today's Progress**: At **#FreeCodeCamp** learned to link External Pages with Anchor Elements, Nest Anchor Elements within a Paragraph, Created a Bulleted Unordered List, Created an Ordered List, attended my first **#CodeNewbie** twitter chat and it was awesome! All within 1hr or so.
+
+
+**Thoughts**: Although I did not spent so much time like I would have liked to, I felt that this hour was very productive. Understood every learned concept without significant problems. 
+
+
+### R1D
+
+**Today's Progress**:
+
+
+**Thoughts**:
