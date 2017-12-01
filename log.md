@@ -37,6 +37,14 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Just feel like I learned a lot today. Felt productive and engaged. 
 
 
+### R1D5
+
+**Today's Progress**: Learned to set the ID of an Element, Use an ID Attribute to Style an Element, Adjusting the Padding of an Element, Adjust the Margin of an Element, Add a Negative Margin to an Element, Add Different Padding to Each Side of an Element.
+
+
+**Thoughts**: Thinking about not having much time free, today I managed to code for an hour and cover some ground. It was really hard to squeeze it in my schedule, but all it takes is true commitment. Let's rock on!
+
+
 ### R1D
 
 **Today's Progress**:
