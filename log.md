@@ -29,6 +29,14 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Although I did not spent so much time like I would have liked to, I felt that this hour was very productive. Understood every learned concept without significant problems. 
 
 
+### R1D4
+
+**Today's Progress**: Learned text input fields, Add Placeholder Text to a Text Field, Create a Form Element, Add a Submit Button to a Form, Use HTML5 to Require a Field, Create a Set of Radio Buttons, Create a Set of Checkboxes, Create a Set of Checkboxes, Check Radio Buttons and Checkboxes by Default, Nest Many Elements within a Single Div Element, Give a Background Color to a Div Element. 
+
+
+**Thoughts**: Just feel like I learned a lot today. Felt productive and engaged. 
+
+
 ### R1D
 
 **Today's Progress**:
