@@ -45,6 +45,14 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Thinking about not having much time free, today I managed to code for an hour and cover some ground. It was really hard to squeeze it in my schedule, but all it takes is true commitment. Let's rock on!
 
 
+### R1D6
+
+**Today's Progress**: Learned to add Different Margins to Each Side of an Element, Use Clockwise Notation to Specify the Margin of an Element, Style the HTML Body Element, Inherit Styles from the Body Element, Override Styles in Subsequent CSS, Override Class Declarations by Styling ID Attributes, Override Class Declarations with Inline Styles, Override All Other Styles by using Important, Use Hex Code for Specific Colors, Use Hex Code to Mix Colors, Use Abbreviated Hex Code, Use RGB values to Color Elements, Use RGB to Mix Colors.
+
+
+**Thoughts**: Finished the HTML and CSS unit. 
+
+
 ### R1D
 
 **Today's Progress**:
