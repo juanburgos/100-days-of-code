@@ -55,10 +55,10 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D7
 
-**Today's Progress**: Learned to use Responsive Design with Bootstrap Fluid Containers, Mobile Responsive Iages, Center Text with Bootstrap, Create a Bootstrap Button, Create a Block Element Bootstrap Button, Call out Optional Actions with Button Info, Warn Users of a Dangerous Action, Use the Bootstrap Grid to Put Elements Side By Side, Use Spans for Inline Elements.
+**Today's Progress**: Learned to use Responsive Design with Bootstrap Fluid Containers, Mobile Responsive Images, Center Text with Bootstrap, Create a Bootstrap Button, Create a Block Element Bootstrap Button, Call out Optional Actions with Button Info, Warn Users of a Dangerous Action, Use the Bootstrap Grid to Put Elements Side By Side, Use Spans for Inline Elements.
 
 
-**Thoughts**: 
+**Thoughts**: Digging how Bootstrap is very useful at the time of coding responsive pages or web apps according to the device's screen size. Very nice!
 
 
 ### R1D
