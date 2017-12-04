@@ -53,6 +53,14 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Finished the HTML and CSS unit. 
 
 
+### R1D7
+
+**Today's Progress**: Learned to use Responsive Design with Bootstrap Fluid Containers, Mobile Responsive Iages, Center Text with Bootstrap, Create a Bootstrap Button, Create a Block Element Bootstrap Button, Call out Optional Actions with Button Info, Warn Users of a Dangerous Action, Use the Bootstrap Grid to Put Elements Side By Side, Use Spans for Inline Elements.
+
+
+**Thoughts**: 
+
+
 ### R1D
 
 **Today's Progress**:
