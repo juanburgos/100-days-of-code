@@ -61,9 +61,18 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Digging how Bootstrap is very useful at the time of coding responsive pages or web apps according to the device's screen size. Very nice!
 
 
+### R1D8
+
+**Today's Progress**: Learned the basics of Bootstrap, Font Awesome, and Responsive Design.
+
+
+**Thoughts**: Thought that it was going to be something that I would struggle with. Turned out to be understandable.
+
+
 ### R1D
 
 **Today's Progress**:
 
 
 **Thoughts**:
+
