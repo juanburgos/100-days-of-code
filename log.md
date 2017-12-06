@@ -69,10 +69,17 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Thought that it was going to be something that I would struggle with. Turned out to be understandable.
 
 
+### R1D9
+
+**Today's Progress**: Started building a jQuery playground from scratch to practice the HTML, CSS and Bootstrap skills that I have learned so far. Finished the Responsive Design with Bootstrap Unit on #FreeCodeCamp.
+
+
+**Thoughts**: Ready to tackle jQuery tomorrow.
+
+
 ### R1D
 
-**Today's Progress**:
+**Today's Progress**: 
 
 
 **Thoughts**:
-
