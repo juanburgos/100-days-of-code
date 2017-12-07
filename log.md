@@ -85,6 +85,14 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Focused in quality, not quantity. Feeling great about my progress so far.
 
 
+### R1D11
+
+**Today's Progress**: Learned to Target the same element with multiple jQuery Selectors, Remove Classes from an element, Change the CSS of an Element, Disable an Element, Change Text Inside an Element.
+
+
+**Thoughts**: Halfway there to finish the jQuery unit. My hopes to be able to truck it by tomorrow.
+
+
 ### R1D
 
 **Today's Progress**: 
