@@ -77,6 +77,14 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Ready to tackle jQuery tomorrow.
 
 
+### R1D10
+
+**Today's Progress**: Started jQuery. Learned to Target HTML Elements with Selectors, Target Elements by Class and Target Elements by ID.
+
+
+**Thoughts**: Focused in quality, not quantity. Feeling great about my progress so far.
+
+
 ### R1D
 
 **Today's Progress**: 
