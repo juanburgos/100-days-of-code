@@ -93,6 +93,14 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Halfway there to finish the jQuery unit. My hopes to be able to truck it by tomorrow.
 
 
+### R1D12
+
+**Today's Progress**: *JQuery*: Learned to Remove an HTML Element, Use appendTo to Move Elements, Clone an Element, Target the Parent and Children of an Element, Target a Specific Child of an Element, Target Even/Odd Numbered Elements and Modify the Entire Page.
+
+
+**Thoughts**: Done with the basics of jQuery. Now on to start building basic front end projects. Next... Build a Tribute Page! 
+
+
 ### R1D
 
 **Today's Progress**: 
