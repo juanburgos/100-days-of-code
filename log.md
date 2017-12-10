@@ -101,6 +101,14 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Done with the basics of jQuery. Now on to start building basic front end projects. Next... Build a Tribute Page! 
 
 
+### R1D13
+
+**Today's Progress**: Started building the layout of my tribute page for #freeCodeCamp 's challenge. 
+
+
+**Thoughts**: Still don't know who's going to be tributed. Will concentrate in using Bootstrap for most of the page.
+
+
 ### R1D
 
 **Today's Progress**: 
