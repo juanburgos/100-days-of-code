@@ -109,9 +109,16 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Thoughts**: Still don't know who's going to be tributed. Will concentrate in using Bootstrap for most of the page.
 
 
+### R1D14
+
+**Today's Progress**: Took time to read through CSS and Bootstrap documentation. Afterwards, I used Codepen.io to practice in realtime everything that cought my attention. 
+
+
+**Thoughts**: Still deciding on who's going to be tributed in my page, but in the meantime, I just work on the layout of the page. 
+
+
 ### R1D
 
 **Today's Progress**: 
 
-
-**Thoughts**:
+**Thoughts**: 
