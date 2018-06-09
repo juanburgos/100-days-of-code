@@ -116,9 +116,21 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Still deciding on who's going to be tributed in my page, but in the meantime, I just work on the layout of the page. 
 
-
+-
 ### Day01
 
 **Today's Progress**: Restarted the challenge. Hello World!
 
 **Thoughts**: It's nice to see how FreeCodeCamp has improved it's curriculum. 
+
+### Day02
+
+**Today's Progress**: Started with the Applied Visual Design challenges on FreeCodeCamp.
+
+**Thoughts**: Felt comfortable understanding the topics. 
+
+### Day
+
+**Today's Progress**: 
+
+**Thoughts**:
