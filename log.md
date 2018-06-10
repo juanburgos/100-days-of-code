@@ -129,6 +129,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Felt comfortable understanding the topics. 
 
+### Day03
+
+**Today's Progress**: Continued with the Applied Visual Design challenges on FreeCodeCamp.
+
+**Thoughts**: Played a lot with CSS colors and transformations. Never thought CSS would someday turn to be so fun.
+
 ### Day
 
 **Today's Progress**: 
