@@ -141,8 +141,14 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Without any hurry... just playing with the animations, enjoying the ride. Hopefully will finish the chapter tomorrow. 
 
+### Day05
+
+**Today's Progress**: Took the time to practice the very basic HTML & CSS that I learned, and tried to keep it as simple as only the things that I could remember without referencing a lot. Made a landing page for my Bassist website.
+
+**Thoughts**: Turned out to be a good exercise. Page needs lots of work. Have to make it mobile responsive.
+
 ### Day
 
 **Today's Progress**: 
 
-**Thoughts**:
+**Thoughts**: 
