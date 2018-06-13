@@ -147,6 +147,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Turned out to be a good exercise. Page needs lots of work. Have to make it mobile responsive.
 
+### Day06
+
+**Today's Progress**: Done with Applied Visual Design challenges on FreeCodeCamp. Practiced some of it on my personal website.
+
+**Thoughts**: Tomorrow will start with the Applied Accessibility Challenges. Rock on!
+
 ### Day
 
 **Today's Progress**: 
