@@ -153,6 +153,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Tomorrow will start with the Applied Accessibility Challenges. Rock on!
 
+### Day07
+
+**Today's Progress**: Started with Applied Accessibility Challenges on FreeCodeCamp.
+
+**Thoughts**: Will hit it hard tomorrow.
+
 ### Day
 
 **Today's Progress**: 
