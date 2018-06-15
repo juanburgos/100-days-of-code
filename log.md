@@ -159,6 +159,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Will hit it hard tomorrow.
 
+### Day08
+
+**Today's Progress**: Took the time today to work a bit on my professional webpage. 
+
+**Thoughts**: Using all the knowledge acquired through FreeCodeCamp. It has proven to be most helpful in my development.
+
 ### Day
 
 **Today's Progress**: 
