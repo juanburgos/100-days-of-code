@@ -165,6 +165,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Using all the knowledge acquired through FreeCodeCamp. It has proven to be most helpful in my development.
 
+### Day09
+
+**Today's Progress**: Worked a bit more on my professional landing page. Added my Drooble link. Took time to read about RWD using CSS. 
+
+**Thoughts**: My page looks crappy on mobile.
+
 ### Day
 
 **Today's Progress**: 
