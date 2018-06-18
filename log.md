@@ -171,6 +171,18 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: My page looks crappy on mobile.
 
+### Days10-11
+
+**Today's Progress**: Did a few Applied Accessibility Challenges on FreeCodeCamp. Worked a way to make my landing page a little more mobile friendly. 
+
+**Thoughts**: Feels good to apply what I learn on those lessons. 
+
+### Day
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
 ### Day
 
 **Today's Progress**: 
