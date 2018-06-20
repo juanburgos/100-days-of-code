@@ -177,11 +177,11 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Feels good to apply what I learn on those lessons. 
 
-### Day
+### Days12-13
 
-**Today's Progress**: 
+**Today's Progress**: Done w/ Applied Accessilility and started Responsive Web Design Challenges on FreeCodeCamp.
 
-**Thoughts**: 
+**Thoughts**: Will pay close attention to these. I need to implement them on my website.
 
 ### Day
 
