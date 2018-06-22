@@ -183,6 +183,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Will pay close attention to these. I need to implement them on my website.
 
+### Day14
+
+**Today's Progress**: Done w/ RWD on FreeCodeCamp & started w/ CSS Flexbox challenges.
+
+**Thoughts**: Just what I needed to put my website in shape.
+
 ### Day
 
 **Today's Progress**: 
