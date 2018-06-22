@@ -189,6 +189,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Just what I needed to put my website in shape.
 
+### Day15
+
+**Today's Progress**: Done w/ CSS Flexbox on FreeCodeCamp. Now on to the CSS Grid Challenges. 
+
+**Thoughts**: Je suis vraiment heureux!
+
 ### Day
 
 **Today's Progress**: 
