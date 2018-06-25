@@ -195,6 +195,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Je suis vraiment heureux!
 
+### Days16-17
+
+**Today's Progress**: Finished CSS Grid on FreeCodeCamp. Next is Intro to the RWD Projects.
+
+**Thoughts**: Time to rock n roll! :-)
+
 ### Day
 
 **Today's Progress**: 
