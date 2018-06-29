@@ -201,6 +201,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Time to rock n roll! :-)
 
+### Days18-19
+
+**Today's Progress**: Worked on the first of the RWD Projects - Build a Tribute Page. `https://codepen.io/juanburgos/full/xzaoOm/`
+
+**Thoughts**: Managed to code a simple page, but still have lots to learn about design.
+
 ### Day
 
 **Today's Progress**: 
