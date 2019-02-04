@@ -4,9 +4,9 @@ The log of my #100DaysOfCode challenge. Started on [November 27, Monday, 2017].
 
 ## Log
 
-### R1D1 
+### R1D1
 
-**Today's Progress**: Made it up to how to use CSS Selectors to Style Elements. 
+**Today's Progress**: Made it up to how to use CSS Selectors to Style Elements.
 
 **Thoughts**: **#CodeNewbie** here.
 
@@ -26,15 +26,15 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Today's Progress**: At **#FreeCodeCamp** learned to link External Pages with Anchor Elements, Nest Anchor Elements within a Paragraph, Created a Bulleted Unordered List, Created an Ordered List, attended my first **#CodeNewbie** twitter chat and it was awesome! All within 1hr or so.
 
 
-**Thoughts**: Although I did not spent so much time like I would have liked to, I felt that this hour was very productive. Understood every learned concept without significant problems. 
+**Thoughts**: Although I did not spent so much time like I would have liked to, I felt that this hour was very productive. Understood every learned concept without significant problems.
 
 
 ### R1D4
 
-**Today's Progress**: Learned text input fields, Add Placeholder Text to a Text Field, Create a Form Element, Add a Submit Button to a Form, Use HTML5 to Require a Field, Create a Set of Radio Buttons, Create a Set of Checkboxes, Create a Set of Checkboxes, Check Radio Buttons and Checkboxes by Default, Nest Many Elements within a Single Div Element, Give a Background Color to a Div Element. 
+**Today's Progress**: Learned text input fields, Add Placeholder Text to a Text Field, Create a Form Element, Add a Submit Button to a Form, Use HTML5 to Require a Field, Create a Set of Radio Buttons, Create a Set of Checkboxes, Create a Set of Checkboxes, Check Radio Buttons and Checkboxes by Default, Nest Many Elements within a Single Div Element, Give a Background Color to a Div Element.
 
 
-**Thoughts**: Just feel like I learned a lot today. Felt productive and engaged. 
+**Thoughts**: Just feel like I learned a lot today. Felt productive and engaged.
 
 
 ### R1D5
@@ -50,7 +50,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Today's Progress**: Learned to add Different Margins to Each Side of an Element, Use Clockwise Notation to Specify the Margin of an Element, Style the HTML Body Element, Inherit Styles from the Body Element, Override Styles in Subsequent CSS, Override Class Declarations by Styling ID Attributes, Override Class Declarations with Inline Styles, Override All Other Styles by using Important, Use Hex Code for Specific Colors, Use Hex Code to Mix Colors, Use Abbreviated Hex Code, Use RGB values to Color Elements, Use RGB to Mix Colors.
 
 
-**Thoughts**: Finished the HTML and CSS unit. 
+**Thoughts**: Finished the HTML and CSS unit.
 
 
 ### R1D7
@@ -98,12 +98,12 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 **Today's Progress**: *JQuery*: Learned to Remove an HTML Element, Use appendTo to Move Elements, Clone an Element, Target the Parent and Children of an Element, Target a Specific Child of an Element, Target Even/Odd Numbered Elements and Modify the Entire Page.
 
 
-**Thoughts**: Done with the basics of jQuery. Now on to start building basic front end projects. Next... Build a Tribute Page! 
+**Thoughts**: Done with the basics of jQuery. Now on to start building basic front end projects. Next... Build a Tribute Page!
 
 
 ### R1D13
 
-**Today's Progress**: Started building the layout of my tribute page for #freeCodeCamp 's challenge. 
+**Today's Progress**: Started building the layout of my tribute page for #freeCodeCamp 's challenge.
 
 
 **Thoughts**: Still don't know who's going to be tributed. Will concentrate in using Bootstrap for most of the page.
@@ -111,23 +111,24 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D14
 
-**Today's Progress**: Took time to read through CSS and Bootstrap documentation. Afterwards, I used Codepen.io to practice in realtime everything that cought my attention. 
+**Today's Progress**: Took time to read through CSS and Bootstrap documentation. Afterwards, I used Codepen.io to practice in realtime everything that cought my attention.
 
 
-**Thoughts**: Still deciding on who's going to be tributed in my page, but in the meantime, I just work on the layout of the page. 
+**Thoughts**: Still deciding on who's going to be tributed in my page, but in the meantime, I just work on the layout of the page.
 
--
+-- Restarded sometime in 2018 -- 
+
 ### Day01
 
 **Today's Progress**: Restarted the challenge. Hello World!
 
-**Thoughts**: It's nice to see how FreeCodeCamp has improved it's curriculum. 
+**Thoughts**: It's nice to see how FreeCodeCamp has improved it's curriculum.
 
 ### Day02
 
 **Today's Progress**: Started with the Applied Visual Design challenges on FreeCodeCamp.
 
-**Thoughts**: Felt comfortable understanding the topics. 
+**Thoughts**: Felt comfortable understanding the topics.
 
 ### Day03
 
@@ -139,7 +140,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Today's Progress**: Almost done with the Applied Visual Design challenges on FreeCodeCamp.
 
-**Thoughts**: Without any hurry... just playing with the animations, enjoying the ride. Hopefully will finish the chapter tomorrow. 
+**Thoughts**: Without any hurry... just playing with the animations, enjoying the ride. Hopefully will finish the chapter tomorrow.
 
 ### Day05
 
@@ -161,25 +162,25 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### Day08
 
-**Today's Progress**: Took the time today to work a bit on my professional webpage. 
+**Today's Progress**: Took the time today to work a bit on my professional webpage.
 
 **Thoughts**: Using all the knowledge acquired through FreeCodeCamp. It has proven to be most helpful in my development.
 
 ### Day09
 
-**Today's Progress**: Worked a bit more on my professional landing page. Added my Drooble link. Took time to read about RWD using CSS. 
+**Today's Progress**: Worked a bit more on my professional landing page. Added my Drooble link. Took time to read about RWD using CSS.
 
 **Thoughts**: My page looks crappy on mobile.
 
 ### Days10-11
 
-**Today's Progress**: Did a few Applied Accessibility Challenges on FreeCodeCamp. Worked a way to make my landing page a little more mobile friendly. 
+**Today's Progress**: Did a few Applied Accessibility Challenges on FreeCodeCamp. Worked a way to make my landing page a little more mobile friendly.
 
-**Thoughts**: Feels good to apply what I learn on those lessons. 
+**Thoughts**: Feels good to apply what I learn on those lessons.
 
 ### Days12-13
 
-**Today's Progress**: Done w/ Applied Accessilility and started Responsive Web Design Challenges on FreeCodeCamp.
+**Today's Progress**: Done w/ Applied Accessibility and started Responsive Web Design Challenges on FreeCodeCamp.
 
 **Thoughts**: Will pay close attention to these. I need to implement them on my website.
 
@@ -191,7 +192,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### Day15
 
-**Today's Progress**: Done w/ CSS Flexbox on FreeCodeCamp. Now on to the CSS Grid Challenges. 
+**Today's Progress**: Done w/ CSS Flexbox on FreeCodeCamp. Now on to the CSS Grid Challenges.
 
 **Thoughts**: Je suis vraiment heureux!
 
@@ -207,8 +208,17 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 **Thoughts**: Managed to code a simple page, but still have lots to learn about design.
 
-### Day
+------------- Restarted: Monday, Feb 4, 2019 -------------
 
-**Today's Progress**: 
 
-**Thoughts**: 
+### Day01 #100DaysOfCode
+
+Ongoing w/ my coding journey. Refreshed HTML5, CSS3, and played with Bootstrap's Carousel component.
+
+
+
+
+### Day  #100DaysOfCode
+
+
+
