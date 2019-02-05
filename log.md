@@ -216,6 +216,9 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 Ongoing w/ my coding journey. Refreshed HTML5, CSS3, and played with Bootstrap's Carousel component.
 
 
+### Day02  #100DaysOfCode
+
+Learned about Bootstrap's Cards component and how to use it with the grid system.
 
 
 ### Day  #100DaysOfCode
