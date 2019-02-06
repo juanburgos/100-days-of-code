@@ -221,7 +221,9 @@ Ongoing w/ my coding journey. Refreshed HTML5, CSS3, and played with Bootstrap's
 Learned about Bootstrap's Cards component and how to use it with the grid system.
 
 
+### Day03  #100DaysOfCode
+
+My head nearly exploded learning about the CSS Z-index and Stacking Order. It's a bit tricky.
+
+
 ### Day  #100DaysOfCode
-
-
-
