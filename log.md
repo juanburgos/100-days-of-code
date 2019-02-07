@@ -226,4 +226,9 @@ Learned about Bootstrap's Cards component and how to use it with the grid system
 My head nearly exploded learning about the CSS Z-index and Stacking Order. It's a bit tricky.
 
 
+### Day04  #100DaysOfCode
+
+Learned to use CSS Media Query to add breakpoints and make a website even more responsive to mobile devices. That's a CSS +1 level up!
+
+
 ### Day  #100DaysOfCode
