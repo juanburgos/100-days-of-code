@@ -231,4 +231,9 @@ My head nearly exploded learning about the CSS Z-index and Stacking Order. It's 
 Learned to use CSS Media Query to add breakpoints and make a website even more responsive to mobile devices. That's a CSS +1 level up!
 
 
+### Day05  #100DaysOfCode
+
+Took time to learn about Code Refactoring and how it helps you becoming a better programmer. Code length: Not the longest will be more effective, not the shortest will be understandable, and vice-versa. This is how language is art.
+
+
 ### Day  #100DaysOfCode
