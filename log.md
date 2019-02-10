@@ -238,6 +238,10 @@ Took time to learn about Code Refactoring and how it helps you becoming a better
 
 ### Day06  #100DaysOfCode
 
-Learned about combining selector in CSS to refactor a website. Neat & tidy. #BeerTime
+Learned about combining selectors in CSS to refactor a website. Neat & tidy. #BeerTime
+
+### Day07  #100DaysOfCode
+
+Learned further on Combining Selectors in CSS, the difference between Parent-Child selectors and Same Level Element selectors, how Selector Priority is set by CSS Specificity. Heading on to JavaScript tomorrow. Another 🤯 day. 👨🏻‍💻
 
 ### Day  #100DaysOfCode
