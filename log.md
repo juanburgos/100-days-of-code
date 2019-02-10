@@ -236,4 +236,8 @@ Learned to use CSS Media Query to add breakpoints and make a website even more r
 Took time to learn about Code Refactoring and how it helps you becoming a better programmer. Code length: Not the longest will be more effective, not the shortest will be understandable, and vice-versa. This is how language is art.
 
 
+### Day06  #100DaysOfCode
+
+Learned about combining selector in CSS to refactor a website. Neat & tidy. #BeerTime
+
 ### Day  #100DaysOfCode
