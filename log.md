@@ -252,4 +252,12 @@ Started learning JavaScript. Alerts, Data Types, Variables, Naming Conventions, 
 
 Combined basic elements of JavaScript to count characters in a message while adding some user interaction. Good practice session. 👨🏻‍💻 
 
+``var yourName = prompt('What is your name?');``
+``alert('Hello ' + yourName + ', my name is Johnney. I am Juano\'s butler. Nice to meet you.');``
+``alert('My master is not currently available. Would you care to leave him a message? Please, make it not longer than 280 characters.');``
+``var userMessage = prompt('Leave message below. ' + 'I will confirm you with receipt and total of characters.');``
+``var charactersWritten = userMessage.length;``
+``var charactersLeft = charactersWritten - 280;``
+``alert('Message received. You have written ' + charactersWritten + ' characters, you have ' + charactersLeft + ' left.');``
+
 ### Day  #100DaysOfCode
