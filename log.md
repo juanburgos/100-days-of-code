@@ -248,4 +248,8 @@ Learned further on Combining Selectors in CSS, the difference between Parent-Chi
 
 Started learning JavaScript. Alerts, Data Types, Variables, Naming Conventions, and String Concatenation. Tomorrow, more of the introductory topics. 👨🏻‍💻
 
+### Day09  #100DaysOfCode
+
+Combined basic elements of JavaScript to count characters in a message while adding some user interaction. Good practice session. 👨🏻‍💻 
+
 ### Day  #100DaysOfCode
