@@ -244,4 +244,8 @@ Learned about combining selectors in CSS to refactor a website. Neat & tidy. #Be
 
 Learned further on Combining Selectors in CSS, the difference between Parent-Child selectors and Same Level Element selectors, how Selector Priority is set by CSS Specificity. Heading on to JavaScript tomorrow. Another 🤯 day. 👨🏻‍💻
 
+### Day08  #100DaysOfCode
+
+Started learning JavaScript. Alerts, Data Types, Variables, Naming Conventions, and String Concatenation. Tomorrow, more of the introductory topics. 👨🏻‍💻
+
 ### Day  #100DaysOfCode
