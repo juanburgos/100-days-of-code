@@ -260,4 +260,12 @@ Combined basic elements of JavaScript to count characters in a message while add
 ``var charactersLeft = charactersWritten - 280;``
 ``alert('Message received. You have written ' + charactersWritten + ' characters, you have ' + charactersLeft + ' left.');``
 
+### Day10  #100DaysOfCode
+
+Felt pretty cool to understand what I have learned so far and use it to do a simple - but useful- task. To Greet a user while making sure their name is cased correctly no matter how they input it. 👨🏻‍💻 Hells yeah! 🍻 #BeerTime
+
+`var yourName = prompt('What is your name?');`
+`yourName = yourName.slice(0, 1).toUpperCase() + yourName.slice(1, ).toLowerCase();`
+`alert('Hello ' + yourName + ', my name is Johnney. I am Juano\'s butler. Nice to meet you.');`
+
 ### Day  #100DaysOfCode
