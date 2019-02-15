@@ -268,4 +268,19 @@ Felt pretty cool to understand what I have learned so far and use it to do a sim
 `yourName = yourName.slice(0, 1).toUpperCase() + yourName.slice(1, ).toLowerCase();`
 `alert('Hello ' + yourName + ', my name is Johnney. I am Juano\'s butler. Nice to meet you.');`
 
+### Day11  #100DaysOfCode
+
+Added simple math to the conversation in JavaScript. The Dog Age to Human Age script. Happy Valentine's Day! #BeerTIme
+
+`var dogName = prompt("What is your dog's name?");`
+`dogName = dogName.slice(0, 1).toUpperCase() + dogName.slice(1,dogName.length).toLowerCase();`
+`alert("Say hello to " + dogName + ", for me. I can tell you how old is " + dogName + " in human years. :-)");`
+`var dogAge = prompt("How many years old is " + dogName + "?");`
+`humanAge = ((dogAge - 2) * 4) + 21;`
+`alert(dogName + " is " + humanAge + " human-years old!");`
+ 
+### Day12  #100DaysOfCode
+
+Learned about functions() in JavaScript. Programmed Karel to make a checkerboard pattern. Can I get a Yeehaw? 👨🏻‍💻🙌🏻
+
 ### Day  #100DaysOfCode
