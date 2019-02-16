@@ -283,4 +283,8 @@ Added simple math to the conversation in JavaScript. The Dog Age to Human Age sc
 
 Learned about functions() in JavaScript. Programmed Karel to make a checkerboard pattern. Can I get a Yeehaw? 👨🏻‍💻🙌🏻
 
+### Day13  #100DaysOfCode
+
+Got deeper into Functions in JavaScript. Parameters, Arguments, Outputs & Return Values = 👨🏻‍💻 Cheese & crackers!!! 🤯 Tomorrow, will start building a simple BMI Calculator.
+
 ### Day  #100DaysOfCode
