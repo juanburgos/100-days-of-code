@@ -287,4 +287,8 @@ Learned about functions() in JavaScript. Programmed Karel to make a checkerboard
 
 Got deeper into Functions in JavaScript. Parameters, Arguments, Outputs & Return Values = 👨🏻‍💻 Cheese & crackers!!! 🤯 Tomorrow, will start building a simple BMI Calculator.
 
+### Day14  #100DaysOfCode
+
+Decided to practice more on JavaScript Functions before I build the BMI Calculator. I finally understood better how to call multiple functions inside a function. 👨🏻‍💻🙌🏻 #BeerTime #CodeNewbie
+
 ### Day  #100DaysOfCode
