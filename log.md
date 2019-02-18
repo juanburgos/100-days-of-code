@@ -291,4 +291,8 @@ Got deeper into Functions in JavaScript. Parameters, Arguments, Outputs & Return
 
 Decided to practice more on JavaScript Functions before I build the BMI Calculator. I finally understood better how to call multiple functions inside a function. 👨🏻‍💻🙌🏻 #BeerTime #CodeNewbie
 
+### Day15  #100DaysOfCode
+
+Did two simple BMI Calculators using JavaScript. One for inches/pounds and another converting those values to meter/kgs. At least the back-end side. It was nice to use different types of functions. So useful depending on your situation. 👨🏻‍💻
+
 ### Day  #100DaysOfCode
