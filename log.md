@@ -293,6 +293,6 @@ Decided to practice more on JavaScript Functions before I build the BMI Calculat
 
 ### Day15  #100DaysOfCode
 
-Did two simple BMI Calculators using JavaScript. One for inches/pounds and another converting those values to meter/kgs. At least the back-end side. It was nice to use different types of functions. So useful depending on your situation. 👨🏻‍💻
+Did two simple BMI Calculators using JavaScript. For inches/pounds & meter/kgs. It was nice to use different types of functions. So useful depending on the situation. 👨🏻‍💻 #CodeNewbie #DudesInTech
 
 ### Day  #100DaysOfCode
