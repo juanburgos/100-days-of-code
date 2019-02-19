@@ -295,4 +295,8 @@ Decided to practice more on JavaScript Functions before I build the BMI Calculat
 
 Did two simple BMI Calculators using JavaScript. For inches/pounds & meter/kgs. It was nice to use different types of functions. So useful depending on the situation. 👨🏻‍💻 #CodeNewbie #DudesInTech
 
+### Day16  #100DaysOfCode
+
+Days of JavaScript update: Learned about Random Number Generation, Control Statements, Conditionals & Logic, Comparators and Equality, and combined everything to make an better version of the BMI Calculator. 👨🏻‍💻🙌🏻#BeerTime
+
 ### Day  #100DaysOfCode
