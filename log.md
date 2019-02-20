@@ -299,4 +299,8 @@ Did two simple BMI Calculators using JavaScript. For inches/pounds & meter/kgs. 
 
 Days of JavaScript update: Learned about Random Number Generation, Control Statements, Conditionals & Logic, Comparators and Equality, and combined everything to make an better version of the BMI Calculator. 👨🏻‍💻🙌🏻#BeerTime
 
+### Day17  #100DaysOfCode
+
+Practicing If-Else, Arrays and While Loops in #JavaScript. BMI Calc, prompt that checks if your name is on the guest list, and a function that plays the #FizzBuzz game. 👨🏻‍💻🙌🏻
+
 ### Day  #100DaysOfCode
