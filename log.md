@@ -303,4 +303,8 @@ Days of JavaScript update: Learned about Random Number Generation, Control State
 
 Practicing If-Else, Arrays and While Loops in #JavaScript. BMI Calc, prompt that checks if your name is on the guest list, and a function that plays the #FizzBuzz game. 👨🏻‍💻🙌🏻
 
+### Day18  #100DaysOfCode
+
+Did a #JavaScript function that prints the lyrics of the song "99 Bottles of Beer". I know there are many ways (and maybe better) of getting this done, but I feel so good to have accomplished something that I couldn't do in the past. 👨🏻‍💻🙌🏻
+
 ### Day  #100DaysOfCode
