@@ -315,4 +315,8 @@ The hardest thing yet: build a Fibonacci Generator. My head is numb. 🤯🤯
 
 Learned the different ways to add #JavaScript to websites, and about the Document Object Model. 👨🏻‍💻 
 
+### Day21  #100DaysOfCode
+
+Practiced selecting HTML Elements with JavaScript. Getting used to the DOM. 👨🏻‍💻
+
 ### Day  #100DaysOfCode
