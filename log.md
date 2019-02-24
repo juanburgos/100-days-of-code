@@ -307,4 +307,12 @@ Practicing If-Else, Arrays and While Loops in #JavaScript. BMI Calc, prompt that
 
 Did a #JavaScript function that prints the lyrics of the song "99 Bottles of Beer". I know there are many ways (and maybe better) of getting this done, but I feel so good to have accomplished something that I couldn't do in the past. 👨🏻‍💻🙌🏻
 
+### Day19  #100DaysOfCode
+
+The hardest thing yet: build a Fibonacci Generator. My head is numb. 🤯🤯
+
+### Day20  #100DaysOfCode
+
+Learned the different ways to add #JavaScript to websites, and about the Document Object Model. 👨🏻‍💻 
+
 ### Day  #100DaysOfCode
