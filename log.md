@@ -319,4 +319,9 @@ Learned the different ways to add #JavaScript to websites, and about the Documen
 
 Practiced selecting HTML Elements with JavaScript. Getting used to the DOM. 👨🏻‍💻
 
+### Day22  #100DaysOfCode
+
+Learned other ways to select specific things like classes and IDs. Then how to manipulate and change their styles. All using JavaScript. 👨🏻‍💻
+
+
 ### Day  #100DaysOfCode
