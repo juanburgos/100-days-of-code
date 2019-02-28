@@ -329,4 +329,8 @@ Learned other ways to select specific things like classes and IDs. Then how to m
 Text manipulation, text content property, and manipulating HTML element attributes using JavaScript. Tomorrow will start programming a webpage that will use every skill learned so far. Small steps ahead. 👨🏻‍💻
 
 
+### Day24  #100DaysOfCode
+
+Started working on the webpage. Added starting images, and some JavaScript variables. Small steps... Until tomorrow! 👨🏻‍💻
+
 ### Day  #100DaysOfCode
