@@ -333,4 +333,30 @@ Text manipulation, text content property, and manipulating HTML element attribut
 
 Started working on the webpage. Added starting images, and some JavaScript variables. Small steps... Until tomorrow! 👨🏻‍💻
 
+### Day25  #100DaysOfCode
+
+2/28/2019: 1st Qtr of my challenge. These days have been tough, but managed to code a bit or two. Created random number functions for the dice rolls, using JavaScript.
+
+### Day26  #100DaysOfCode
+
+3/1/2019: Created a function to change the dice images according to the random number obtained. 
+
+### Day27  #100DaysOfCode
+
+3/2/2019: Created if-else statements that will change the title to display a winner.
+
+### Day28  #100DaysOfCode
+
+3/3/2019: The page is running the script when it finishes loading. Automatically displaying a winner instead of the title and default dice. I have been searching for a way to prevent this and nothing comes to mind yet. 🤔🤯
+
+### Day29  #100DaysOfCode
+
+3/4/2019: Since the page is loading up already displaying a winner and I have to click reload to keep playing the game, I will change the function to run when you click a button. Is there a way to run JavaScript only after the page is refreshed? 🤔
+
+### Day30  #100DaysOfCode
+
+Done making HTML, CSS & JavaScript changes in order to make the page work as I wanted. It has been a nice challenge! 👨🏻‍💻 You can check it out at: 
+
+https://juanburgos.github.io/Dicee-Game/
+
 ### Day  #100DaysOfCode
