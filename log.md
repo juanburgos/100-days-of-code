@@ -359,4 +359,8 @@ Done making HTML, CSS & JavaScript changes in order to make the page work as I w
 
 https://juanburgos.github.io/Dicee-Game/
 
+### Day31  #100DaysOfCode
+
+Learned about adding event listeners and higher order functions in JavaScript. Practiced passing functions as arguments using simple calculator functions in the console. 🤯 #BeerTime
+
 ### Day  #100DaysOfCode
