@@ -363,4 +363,12 @@ https://juanburgos.github.io/Dicee-Game/
 
 Learned about adding event listeners and higher order functions in JavaScript. Practiced passing functions as arguments using simple calculator functions in the console. 🤯 #BeerTime
 
+### Day32  #100DaysOfCode
+
+Learned about #JavaScript Objects and Constructor Functions. Gave it some practice in the console by creating a couple of slaves for me virtual home. Ñaca ñacaaaa! 
+
+### Day33  #100DaysOfCode
+
+Learned about how to use Switch Statements to control multiple elements in a page. Nice!
+
 ### Day  #100DaysOfCode
