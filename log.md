@@ -371,4 +371,28 @@ Learned about #JavaScript Objects and Constructor Functions. Gave it some practi
 
 Learned about how to use Switch Statements to control multiple elements in a page. Nice!
 
+### Day34  #100DaysOfCode
+
+3/9/2019: New lesson in JavaScript: Adding functions as parameters in objects, or a function associated with an object. My head is about to explode but at least I am understanding. 
+
+juanBurgos.drinkBeer();
+
+### Day35  #100DaysOfCode
+
+3/10/2019: Learned how to add methods to constructor functions in JavaScript. Now I understand how that bit of code that makes audio play is built. 🤯
+
+### Day36  #100DaysOfCode
+
+3/11/2019: Using Switch Statements I managed to make a button play sound when you click it. Stuck for the entire hour trying to understand how to make the sound play when hitting a specific keyboard button. 
+
+### Day37  #100DaysOfCode
+
+Did not complete the challenge by myself. Hit play to see what the solution was. I got grasp of concepts entirely new for me that I need to work on: Passing functions as parameters, and functions as callbacks. 🤯
+
+juanBurgos.keepPushing();
+
+### Day38  #100DaysOfCode
+
+JavaScript: Practiced Higher Order & Callback Functions. Created a function that adds a CSS Class to a button on keypress/click, then used setTimeout() to remove that class after x amount of time resulting on a simple animation. Next: jQuery
+
 ### Day  #100DaysOfCode
