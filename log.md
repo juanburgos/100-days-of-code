@@ -395,4 +395,8 @@ juanBurgos.keepPushing();
 
 JavaScript: Practiced Higher Order & Callback Functions. Created a function that adds a CSS Class to a button on keypress/click, then used setTimeout() to remove that class after x amount of time resulting on a simple animation. Next: jQuery
 
+### Day39  #100DaysOfCode
+
+Practicing JS and jQuery by coding the functionality of a Simon Game. The random color selector and array of paterns are ready. Simple, but got me confused for the entire hour. lol.
+
 ### Day  #100DaysOfCode
