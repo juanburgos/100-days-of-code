@@ -397,6 +397,21 @@ JavaScript: Practiced Higher Order & Callback Functions. Created a function that
 
 ### Day39  #100DaysOfCode
 
-Practicing JS and jQuery by coding the functionality of a Simon Game. The random color selector and array of paterns are ready. Simple, but got me confused for the entire hour. lol.
+Practicing JS and jQuery by coding the functionality of a Simon Game. The random color selector and array of patterns are ready. Simple, but got me confused for the entire hour. LOL
 
+-------------Resumed 08/18/2019------------------
+### Day40  #100DaysOfCode
+Returning from a hiatus. Time to get some coding done. Have to review JS and jQuery. Added this course to my TODO: CS50's Introduction to Computer Science.
+
+### Day41  #100DaysOfCode
+
+Installed Local by Flywheel to play around with WP. Had my first taste of PHP variables, functions, arrays, and while loops. Learned how to create the base for WP themes. I did not know there's beef between the classic & the new WP Editor.
+
+### Day42  #100DaysOfCode
+
+Learning the Unix command line, practiced touch typing (I still use only 2 fingers). Installed Node.js, initialised NPM Package Manager, created Express server, went over the GET request. Also, learned the famous loop in WP.
+
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
