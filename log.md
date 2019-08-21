@@ -412,6 +412,10 @@ Installed Local by Flywheel to play around with WP. Had my first taste of PHP va
 Learning the Unix command line, practiced touch typing (I still use only 2 fingers). Installed Node.js, initialised NPM Package Manager, created Express server, went over the GET request. Also, learned the famous loop in WP.
 
 
-### Day  #100DaysOfCode
+### Day43  #100DaysOfCode
+
+Continued working with the Simon Game Challenge. Was able to compare arrays successfully, but still having problems figuring out a proper order of sequence of operations. Will delete everything and restart from zero. Because I cannot understand anymore what is going on in my code. 
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
