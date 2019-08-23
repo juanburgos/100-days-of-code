@@ -417,5 +417,36 @@ Learning the Unix command line, practiced touch typing (I still use only 2 finge
 Continued working with the Simon Game Challenge. Was able to compare arrays successfully, but still having problems figuring out a proper order of sequence of operations. Will delete everything and restart from zero. Because I cannot understand anymore what is going on in my code. 
 
 
+### Day44  #100DaysOfCode
+
+Using my Hyper Terminal:
+
+    Made a new folder called Calculator on my Desktop
+
+    Changed Directory to this new folder
+
+    Inside the Calculator folder, created a new file called calculator.js
+
+    Set up a new NPM package
+
+    Opened the project folder in Atom 
+
+    Installed the express module using NPM
+
+    Required express in my calculator.js
+
+    Setup express
+
+    Created a root route get method with app.get()
+
+    Sent the words "Hello World, puñetaaaa!" from the root route as the response
+
+    Spinned up my server on port 3000 with app.listen
+
+    Ran server with nodemon
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
