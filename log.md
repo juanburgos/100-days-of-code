@@ -445,8 +445,16 @@ Using my Hyper Terminal:
 
     Ran server with nodemon
 
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
+### Day45  #100DaysOfCode
+
+Learned how to respond to requests with HTML files & process post requests with Body Parser on my local Express Server. Will build a simple BMI Calculator web app. Now, I'll take a break and make a mouthwatering-yey-it's-Friday lasagna.
+
+### Day46  #100DaysOfCode
+
+Took th time today to review what I learned during the week. Built the simple BMI Calculator in the server side using Express.
+
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
