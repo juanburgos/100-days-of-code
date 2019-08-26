@@ -15,7 +15,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D2
 
-**Today's Progress**: Learned: How to style multiple elements with a CSS Class, importing Google fonts, adding & resizing images, adding styled borders to elements.
+**Today's Progress**: learnt: How to style multiple elements with a CSS Class, importing Google fonts, adding & resizing images, adding styled borders to elements.
 
 
 **Thoughts**: I finally get to understand how a class works from a very basic perspective. I felt good today since I understood every challenge without blocking out.
@@ -23,23 +23,23 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D3
 
-**Today's Progress**: At **#FreeCodeCamp** learned to link External Pages with Anchor Elements, Nest Anchor Elements within a Paragraph, Created a Bulleted Unordered List, Created an Ordered List, attended my first **#CodeNewbie** twitter chat and it was awesome! All within 1hr or so.
+**Today's Progress**: At **#FreeCodeCamp** learnt to link External Pages with Anchor Elements, Nest Anchor Elements within a Paragraph, Created a Bulleted Unordered List, Created an Ordered List, attended my first **#CodeNewbie** twitter chat and it was awesome! All within 1hr or so.
 
 
-**Thoughts**: Although I did not spent so much time like I would have liked to, I felt that this hour was very productive. Understood every learned concept without significant problems.
+**Thoughts**: Although I did not spent so much time like I would have liked to, I felt that this hour was very productive. Understood every learnt concept without significant problems.
 
 
 ### R1D4
 
-**Today's Progress**: Learned text input fields, Add Placeholder Text to a Text Field, Create a Form Element, Add a Submit Button to a Form, Use HTML5 to Require a Field, Create a Set of Radio Buttons, Create a Set of Checkboxes, Create a Set of Checkboxes, Check Radio Buttons and Checkboxes by Default, Nest Many Elements within a Single Div Element, Give a Background Color to a Div Element.
+**Today's Progress**: learnt text input fields, Add Placeholder Text to a Text Field, Create a Form Element, Add a Submit Button to a Form, Use HTML5 to Require a Field, Create a Set of Radio Buttons, Create a Set of Checkboxes, Create a Set of Checkboxes, Check Radio Buttons and Checkboxes by Default, Nest Many Elements within a Single Div Element, Give a Background Color to a Div Element.
 
 
-**Thoughts**: Just feel like I learned a lot today. Felt productive and engaged.
+**Thoughts**: Just feel like I learnt a lot today. Felt productive and engaged.
 
 
 ### R1D5
 
-**Today's Progress**: Learned to set the ID of an Element, Use an ID Attribute to Style an Element, Adjusting the Padding of an Element, Adjust the Margin of an Element, Add a Negative Margin to an Element, Add Different Padding to Each Side of an Element.
+**Today's Progress**: learnt to set the ID of an Element, Use an ID Attribute to Style an Element, Adjusting the Padding of an Element, Adjust the Margin of an Element, Add a Negative Margin to an Element, Add Different Padding to Each Side of an Element.
 
 
 **Thoughts**: Thinking about not having much time free, today I managed to code for an hour and cover some ground. It was really hard to squeeze it in my schedule, but all it takes is true commitment. Let's rock on!
@@ -47,7 +47,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D6
 
-**Today's Progress**: Learned to add Different Margins to Each Side of an Element, Use Clockwise Notation to Specify the Margin of an Element, Style the HTML Body Element, Inherit Styles from the Body Element, Override Styles in Subsequent CSS, Override Class Declarations by Styling ID Attributes, Override Class Declarations with Inline Styles, Override All Other Styles by using Important, Use Hex Code for Specific Colors, Use Hex Code to Mix Colors, Use Abbreviated Hex Code, Use RGB values to Color Elements, Use RGB to Mix Colors.
+**Today's Progress**: learnt to add Different Margins to Each Side of an Element, Use Clockwise Notation to Specify the Margin of an Element, Style the HTML Body Element, Inherit Styles from the Body Element, Override Styles in Subsequent CSS, Override Class Declarations by Styling ID Attributes, Override Class Declarations with Inline Styles, Override All Other Styles by using Important, Use Hex Code for Specific Colors, Use Hex Code to Mix Colors, Use Abbreviated Hex Code, Use RGB values to Color Elements, Use RGB to Mix Colors.
 
 
 **Thoughts**: Finished the HTML and CSS unit.
@@ -55,7 +55,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D7
 
-**Today's Progress**: Learned to use Responsive Design with Bootstrap Fluid Containers, Mobile Responsive Images, Center Text with Bootstrap, Create a Bootstrap Button, Create a Block Element Bootstrap Button, Call out Optional Actions with Button Info, Warn Users of a Dangerous Action, Use the Bootstrap Grid to Put Elements Side By Side, Use Spans for Inline Elements.
+**Today's Progress**: learnt to use Responsive Design with Bootstrap Fluid Containers, Mobile Responsive Images, Center Text with Bootstrap, Create a Bootstrap Button, Create a Block Element Bootstrap Button, Call out Optional Actions with Button Info, Warn Users of a Dangerous Action, Use the Bootstrap Grid to Put Elements Side By Side, Use Spans for Inline Elements.
 
 
 **Thoughts**: Digging how Bootstrap is very useful at the time of coding responsive pages or web apps according to the device's screen size. Very nice!
@@ -63,7 +63,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D8
 
-**Today's Progress**: Learned the basics of Bootstrap, Font Awesome, and Responsive Design.
+**Today's Progress**: learnt the basics of Bootstrap, Font Awesome, and Responsive Design.
 
 
 **Thoughts**: Thought that it was going to be something that I would struggle with. Turned out to be understandable.
@@ -71,7 +71,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D9
 
-**Today's Progress**: Started building a jQuery playground from scratch to practice the HTML, CSS and Bootstrap skills that I have learned so far. Finished the Responsive Design with Bootstrap Unit on #FreeCodeCamp.
+**Today's Progress**: Started building a jQuery playground from scratch to practice the HTML, CSS and Bootstrap skills that I have learnt so far. Finished the Responsive Design with Bootstrap Unit on #FreeCodeCamp.
 
 
 **Thoughts**: Ready to tackle jQuery tomorrow.
@@ -79,7 +79,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D10
 
-**Today's Progress**: Started jQuery. Learned to Target HTML Elements with Selectors, Target Elements by Class and Target Elements by ID.
+**Today's Progress**: Started jQuery. learnt to Target HTML Elements with Selectors, Target Elements by Class and Target Elements by ID.
 
 
 **Thoughts**: Focused in quality, not quantity. Feeling great about my progress so far.
@@ -87,7 +87,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D11
 
-**Today's Progress**: Learned to Target the same element with multiple jQuery Selectors, Remove Classes from an element, Change the CSS of an Element, Disable an Element, Change Text Inside an Element.
+**Today's Progress**: learnt to Target the same element with multiple jQuery Selectors, Remove Classes from an element, Change the CSS of an Element, Disable an Element, Change Text Inside an Element.
 
 
 **Thoughts**: Halfway there to finish the jQuery unit. My hopes to be able to truck it by tomorrow.
@@ -95,7 +95,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### R1D12
 
-**Today's Progress**: *JQuery*: Learned to Remove an HTML Element, Use appendTo to Move Elements, Clone an Element, Target the Parent and Children of an Element, Target a Specific Child of an Element, Target Even/Odd Numbered Elements and Modify the Entire Page.
+**Today's Progress**: *JQuery*: learnt to Remove an HTML Element, Use appendTo to Move Elements, Clone an Element, Target the Parent and Children of an Element, Target a Specific Child of an Element, Target Even/Odd Numbered Elements and Modify the Entire Page.
 
 
 **Thoughts**: Done with the basics of jQuery. Now on to start building basic front end projects. Next... Build a Tribute Page!
@@ -144,7 +144,7 @@ Joined **#FreeCodeCamp** and started the **HTML5 & CSS Challenges** in order to 
 
 ### Day05
 
-**Today's Progress**: Took the time to practice the very basic HTML & CSS that I learned, and tried to keep it as simple as only the things that I could remember without referencing a lot. Made a landing page for my Bassist website.
+**Today's Progress**: Took the time to practice the very basic HTML & CSS that I learnt, and tried to keep it as simple as only the things that I could remember without referencing a lot. Made a landing page for my Bassist website.
 
 **Thoughts**: Turned out to be a good exercise. Page needs lots of work. Have to make it mobile responsive.
 
@@ -218,7 +218,7 @@ Ongoing w/ my coding journey. Refreshed HTML5, CSS3, and played with Bootstrap's
 
 ### Day02  #100DaysOfCode
 
-Learned about Bootstrap's Cards component and how to use it with the grid system.
+learnt about Bootstrap's Cards component and how to use it with the grid system.
 
 
 ### Day03  #100DaysOfCode
@@ -228,7 +228,7 @@ My head nearly exploded learning about the CSS Z-index and Stacking Order. It's 
 
 ### Day04  #100DaysOfCode
 
-Learned to use CSS Media Query to add breakpoints and make a website even more responsive to mobile devices. That's a CSS +1 level up!
+learnt to use CSS Media Query to add breakpoints and make a website even more responsive to mobile devices. That's a CSS +1 level up!
 
 
 ### Day05  #100DaysOfCode
@@ -238,11 +238,11 @@ Took time to learn about Code Refactoring and how it helps you becoming a better
 
 ### Day06  #100DaysOfCode
 
-Learned about combining selectors in CSS to refactor a website. Neat & tidy. #BeerTime
+learnt about combining selectors in CSS to refactor a website. Neat & tidy. #BeerTime
 
 ### Day07  #100DaysOfCode
 
-Learned further on Combining Selectors in CSS, the difference between Parent-Child selectors and Same Level Element selectors, how Selector Priority is set by CSS Specificity. Heading on to JavaScript tomorrow. Another 🤯 day. 👨🏻‍💻
+learnt further on Combining Selectors in CSS, the difference between Parent-Child selectors and Same Level Element selectors, how Selector Priority is set by CSS Specificity. Heading on to JavaScript tomorrow. Another 🤯 day. 👨🏻‍💻
 
 ### Day08  #100DaysOfCode
 
@@ -262,7 +262,7 @@ Combined basic elements of JavaScript to count characters in a message while add
 
 ### Day10  #100DaysOfCode
 
-Felt pretty cool to understand what I have learned so far and use it to do a simple - but useful- task. To Greet a user while making sure their name is cased correctly no matter how they input it. 👨🏻‍💻 Hells yeah! 🍻 #BeerTime
+Felt pretty cool to understand what I have learnt so far and use it to do a simple - but useful- task. To Greet a user while making sure their name is cased correctly no matter how they input it. 👨🏻‍💻 Hells yeah! 🍻 #BeerTime
 
 `var yourName = prompt('What is your name?');`
 `yourName = yourName.slice(0, 1).toUpperCase() + yourName.slice(1, ).toLowerCase();`
@@ -281,7 +281,7 @@ Added simple math to the conversation in JavaScript. The Dog Age to Human Age sc
  
 ### Day12  #100DaysOfCode
 
-Learned about functions() in JavaScript. Programmed Karel to make a checkerboard pattern. Can I get a Yeehaw? 👨🏻‍💻🙌🏻
+learnt about functions() in JavaScript. Programmed Karel to make a checkerboard pattern. Can I get a Yeehaw? 👨🏻‍💻🙌🏻
 
 ### Day13  #100DaysOfCode
 
@@ -297,7 +297,7 @@ Did two simple BMI Calculators using JavaScript. For inches/pounds & meter/kgs. 
 
 ### Day16  #100DaysOfCode
 
-Days of JavaScript update: Learned about Random Number Generation, Control Statements, Conditionals & Logic, Comparators and Equality, and combined everything to make an better version of the BMI Calculator. 👨🏻‍💻🙌🏻#BeerTime
+Days of JavaScript update: learnt about Random Number Generation, Control Statements, Conditionals & Logic, Comparators and Equality, and combined everything to make an better version of the BMI Calculator. 👨🏻‍💻🙌🏻#BeerTime
 
 ### Day17  #100DaysOfCode
 
@@ -313,7 +313,7 @@ The hardest thing yet: build a Fibonacci Generator. My head is numb. 🤯🤯
 
 ### Day20  #100DaysOfCode
 
-Learned the different ways to add #JavaScript to websites, and about the Document Object Model. 👨🏻‍💻 
+learnt the different ways to add #JavaScript to websites, and about the Document Object Model. 👨🏻‍💻 
 
 ### Day21  #100DaysOfCode
 
@@ -321,12 +321,12 @@ Practiced selecting HTML Elements with JavaScript. Getting used to the DOM. 👨
 
 ### Day22  #100DaysOfCode
 
-Learned other ways to select specific things like classes and IDs. Then how to manipulate and change their styles. All using JavaScript. 👨🏻‍💻
+learnt other ways to select specific things like classes and IDs. Then how to manipulate and change their styles. All using JavaScript. 👨🏻‍💻
 
 
 ### Day23  #100DaysOfCode
 
-Text manipulation, text content property, and manipulating HTML element attributes using JavaScript. Tomorrow will start programming a webpage that will use every skill learned so far. Small steps ahead. 👨🏻‍💻
+Text manipulation, text content property, and manipulating HTML element attributes using JavaScript. Tomorrow will start programming a webpage that will use every skill learnt so far. Small steps ahead. 👨🏻‍💻
 
 
 ### Day24  #100DaysOfCode
@@ -361,15 +361,15 @@ https://juanburgos.github.io/Dicee-Game/
 
 ### Day31  #100DaysOfCode
 
-Learned about adding event listeners and higher order functions in JavaScript. Practiced passing functions as arguments using simple calculator functions in the console. 🤯 #BeerTime
+learnt about adding event listeners and higher order functions in JavaScript. Practiced passing functions as arguments using simple calculator functions in the console. 🤯 #BeerTime
 
 ### Day32  #100DaysOfCode
 
-Learned about #JavaScript Objects and Constructor Functions. Gave it some practice in the console by creating a couple of slaves for me virtual home. Ñaca ñacaaaa! 
+learnt about #JavaScript Objects and Constructor Functions. Gave it some practice in the console by creating a couple of slaves for me virtual home. Ñaca ñacaaaa! 
 
 ### Day33  #100DaysOfCode
 
-Learned about how to use Switch Statements to control multiple elements in a page. Nice!
+learnt about how to use Switch Statements to control multiple elements in a page. Nice!
 
 ### Day34  #100DaysOfCode
 
@@ -379,7 +379,7 @@ juanBurgos.drinkBeer();
 
 ### Day35  #100DaysOfCode
 
-3/10/2019: Learned how to add methods to constructor functions in JavaScript. Now I understand how that bit of code that makes audio play is built. 🤯
+3/10/2019: learnt how to add methods to constructor functions in JavaScript. Now I understand how that bit of code that makes audio play is built. 🤯
 
 ### Day36  #100DaysOfCode
 
@@ -405,11 +405,11 @@ Returning from a hiatus. Time to get some coding done. Have to review JS and jQu
 
 ### Day41  #100DaysOfCode
 
-Installed Local by Flywheel to play around with WP. Had my first taste of PHP variables, functions, arrays, and while loops. Learned how to create the base for WP themes. I did not know there's beef between the classic & the new WP Editor.
+Installed Local by Flywheel to play around with WP. Had my first taste of PHP variables, functions, arrays, and while loops. learnt how to create the base for WP themes. I did not know there's beef between the classic & the new WP Editor.
 
 ### Day42  #100DaysOfCode
 
-Learning the Unix command line, practiced touch typing (I still use only 2 fingers). Installed Node.js, initialised NPM Package Manager, created Express server, went over the GET request. Also, learned the famous loop in WP.
+Learning the Unix command line, practiced touch typing (I still use only 2 fingers). Installed Node.js, initialised NPM Package Manager, created Express server, went over the GET request. Also, learnt the famous loop in WP.
 
 
 ### Day43  #100DaysOfCode
@@ -447,14 +447,16 @@ Using my Hyper Terminal:
 
 ### Day45  #100DaysOfCode
 
-Learned how to respond to requests with HTML files & process post requests with Body Parser on my local Express Server. Will build a simple BMI Calculator web app. Now, I'll take a break and make a mouthwatering-yey-it's-Friday lasagna.
+learnt how to respond to requests with HTML files & process post requests with Body Parser on my local Express Server. Will build a simple BMI Calculator web app. Now, I'll take a break and make a mouthwatering-yey-it's-Friday lasagna.
 
 ### Day46  #100DaysOfCode
 
-Took th time today to review what I learned during the week. Built the simple BMI Calculator in the server side using Express.
+Took the time today to review what I learnt during the week. Built the simple BMI Calculator in the server side using Express.
 
+### Day47  #100DaysOfCode
 
+Today was a Version Control & Git on the Command Line (Local and Remote) kind of Sunday. Creating Gitignore files and making sense of what to put there. Cloning, forking, push & pull requests. 🤯
 
-### Day  #100DaysOfCode
+ 
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
