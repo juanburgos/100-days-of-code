@@ -458,5 +458,18 @@ Took the time today to review what I learnt during the week. Built the simple BM
 Today was a Version Control & Git on the Command Line (Local and Remote) kind of Sunday. Creating Gitignore files and making sense of what to put there. Cloning, forking, push & pull requests. 🤯
 
  
+### Day48  #100DaysOfCode
+
+Entering the world of APIs & JSON files. That.
+
+ 
+### Day49  #100DaysOfCode
+
+Was able to get ticker data from Bitcoin Average. Getting more comfortable working with APIs. Still, feel like my head is going to explode.🤯 Who's down for an ice cold draft to cool down? 🍻 Are APIs best paired with IPAs? Hmm...🤔  
+
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
