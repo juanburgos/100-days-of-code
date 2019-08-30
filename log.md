@@ -468,8 +468,15 @@ Entering the world of APIs & JSON files. That.
 Was able to get ticker data from Bitcoin Average. Getting more comfortable working with APIs. Still, feel like my head is going to explode.🤯 Who's down for an ice cold draft to cool down? 🍻 Are APIs best paired with IPAs? Hmm...🤔  
 
 
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
+### Day50  #100DaysOfCode
+
+While in the midst of preparing for possible Mayor Hurricane Dorian to hit Florida I managed to Work a bit with JSON files. How to make request to servers and navigate it's structure to parse the info I want to display. Nice #CodeNewbie workout.
+
+### Day51  #100DaysOfCode
+
+Did not write a single line of code. Instead, I took the time to go through the last two Quincy Larson's weekly emails. Never take that email for granted. Even if does not include any topics related to what you are currently working on. The content might not help you directly at that precise moment, but it will definitely help you indirectly.
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
