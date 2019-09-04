@@ -477,6 +477,12 @@ While in the midst of preparing for possible Mayor Hurricane Dorian to hit Flori
 Did not write a single line of code. Instead, I took the time to go through the last two Quincy Larson's weekly emails. Never take that email for granted. Even if does not include any topics related to what you are currently working on. The content might not help you directly at that precise moment, but it will definitely help you indirectly.
 
 
+### Day52  #100DaysOfCode
+
+Learnt how to make API calls with parameters. Tomorrow I'll mess around with MailChimp Servers in order to build a simple newsletter signup page.
+
+
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
