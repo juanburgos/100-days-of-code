@@ -482,7 +482,14 @@ Did not write a single line of code. Instead, I took the time to go through the 
 Learnt how to make API calls with parameters. Tomorrow I'll mess around with MailChimp Servers in order to build a simple newsletter signup page.
 
 
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
+### Day53  #100DaysOfCode
+
+Posting data to the MailChimp Servers was a success. Created a local web app to pass a contact's full name and email address to my mailing list. APIs are starting to make sense. This is something I have to keep on practicing. Also, deployed the project to Heroku and made it live. All this is completely new stuff for me. My brain feels fried.
+
+### Day54  #100DaysOfCode
+
+Entering the world of templating using EJS and how to use markers for templating. Will build a to-do list soon.
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
