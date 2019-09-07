@@ -491,5 +491,8 @@ Posting data to the MailChimp Servers was a success. Created a local web app to 
 Entering the world of templating using EJS and how to use markers for templating. Will build a to-do list soon.
 
 
-### Day  #100DaysOfCode
+### Day55  #100DaysOfCode
+
+Today's study session: Running code inside the EJS template. Passing data from your webpage to your server. I'm dead. Off to sleep!
+ 
 ### Day  #100DaysOfCode
