@@ -495,4 +495,12 @@ Entering the world of templating using EJS and how to use markers for templating
 
 Today's study session: Running code inside the EJS template. Passing data from your webpage to your server. I'm dead. Off to sleep!
  
+### Day56  #100DaysOfCode
+
+Today was about the concept of scope in the context of JS & the difference between var/let/const. Adding static CSS using Express & understanding templates vs layouts.
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
