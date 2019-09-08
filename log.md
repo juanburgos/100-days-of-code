@@ -499,7 +499,10 @@ Today's study session: Running code inside the EJS template. Passing data from y
 
 Today was about the concept of scope in the context of JS & the difference between var/let/const. Adding static CSS using Express & understanding templates vs layouts.
 
-### Day  #100DaysOfCode
+### Day57  #100DaysOfCode
+
+Understanding Node modules exports and how to pass data and functions between files. Next challenge will be building a simple minimalistic blog site that puts HTML, CSS, JS, Node.js, Express, MDN Modules and EJS together.
+ 
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
