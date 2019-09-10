@@ -503,7 +503,13 @@ Today was about the concept of scope in the context of JS & the difference betwe
 
 Understanding Node modules exports and how to pass data and functions between files. Next challenge will be building a simple minimalistic blog site that puts HTML, CSS, JS, Node.js, Express, MDN Modules and EJS together.
  
-### Day  #100DaysOfCode
+### Day58  #100DaysOfCode
+
+Taking it easy on coding this week since I'll be giving a Fall Prevention Program for the elderly in a hospice & Starting training for the National Diabetes Prevention Program. 
+
+Reviewed some EJS concepts. Set up the starting files for Blog Site challenge. Blog site challenge #1 completed. Now off to sleep.
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
