@@ -510,6 +510,9 @@ Taking it easy on coding this week since I'll be giving a Fall Prevention Progra
 Reviewed some EJS concepts. Set up the starting files for Blog Site challenge. Blog site challenge #1 completed. Now off to sleep.
 
 
-### Day  #100DaysOfCode
+### Day59  #100DaysOfCode
+
+Completed blog site challenges 2-6. EJS making more sense as I go. I deserve some cookies and you bet I'm eating them now before bed.
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
