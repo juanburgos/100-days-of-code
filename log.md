@@ -514,5 +514,13 @@ Reviewed some EJS concepts. Set up the starting files for Blog Site challenge. B
 
 Completed blog site challenges 2-6. EJS making more sense as I go. I deserve some cookies and you bet I'm eating them now before bed.
 
+### Day60  #100DaysOfCode
+
+Completed blog site challenges 7-8.
+
+Tomorrow I start my National Diabetes Prevention Program training so I wont be able to code as much as I would want to.
+ 
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
