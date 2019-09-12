@@ -520,7 +520,12 @@ Completed blog site challenges 7-8.
 
 Tomorrow I start my National Diabetes Prevention Program training so I wont be able to code as much as I would want to.
  
-### Day  #100DaysOfCode
+### Day61  #100DaysOfCode
+
+Woke up really early to 
+get at least one blog site challenge done. Challenge 9... done!
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
