@@ -526,6 +526,15 @@ Woke up really early to
 get at least one blog site challenge done. Challenge 9... done!
 
 
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
+### Day62  #100DaysOfCode
+
+After another long day of training for National Diabetes Prevention Program, I got home really tired. Despite of my desire to go straight to bed, I pushed myself and managed to complete blog site challenges 10-11. Now I really need to go to bed. See you tomorrow!
+
+
+### Day63  #100DaysOfCode
+
+Completed blog site challenges 12-13. 
+
+const juan = { mood: cranky, energyLevel: 0 };
+
 ### Day  #100DaysOfCode
