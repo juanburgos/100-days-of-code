@@ -537,4 +537,11 @@ Completed blog site challenges 12-13.
 
 const juan = { mood: cranky, energyLevel: 0 };
 
+### Day64  #100DaysOfCode
+
+Completed blog site challenges 14-15. Started reading about Express Routing Parameters and 🤯. Will go through it again tomorrow.
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
