@@ -546,6 +546,11 @@ Completed blog site challenges 14-15. Started reading about Express Routing Para
 Completed blog site challenges 16-19. Implemented Lodash to the project. Yet, another powerful tool to learn.
 
 
+### Day66  #100DaysOfCode
+
+Completed blog site challenges 20 & 21. Big boss challenge is complete! HTML, CSS, JS, NPM, Nodejs, Expressjs, bodyParser, EJS & Lodash working together. It was fun and challenging. Looking forward to the next chapter, Databases!  
+
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
