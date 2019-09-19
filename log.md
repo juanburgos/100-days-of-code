@@ -541,7 +541,11 @@ const juan = { mood: cranky, energyLevel: 0 };
 
 Completed blog site challenges 14-15. Started reading about Express Routing Parameters and 🤯. Will go through it again tomorrow.
 
-### Day  #100DaysOfCode
+### Day65  #100DaysOfCode
+
+Completed blog site challenges 16-19. Implemented Lodash to the project. Yet, another powerful tool to learn.
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
