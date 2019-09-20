@@ -548,9 +548,12 @@ Completed blog site challenges 16-19. Implemented Lodash to the project. Yet, an
 
 ### Day66  #100DaysOfCode
 
-Completed blog site challenges 20 & 21. Big boss challenge is complete! HTML, CSS, JS, NPM, Nodejs, Expressjs, bodyParser, EJS & Lodash working together. It was fun and challenging. Looking forward to the next chapter, Databases!  
+Completed blog site challenges 20 & 21. Big boss challenge is complete! HTML, CSS, JS, NPM, Nodejs, Expressjs, bodyParser, EJS & Lodash working together. It was fun and challenging. Looking forward to the next chapter, Databases. I can't believe I have made it this far!
 
-### Day  #100DaysOfCode
+### Day67  #100DaysOfCode
+
+Started learning SQL basic CRUD commands. Establishing relationships, foreign keys and inner joins between tables. Next up, is MongoDB. 
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
