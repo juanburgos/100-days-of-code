@@ -559,7 +559,11 @@ Started learning SQL basic CRUD commands. Establishing relationships, foreign ke
 Installed MongoDB, learned the basic CRUD shell commands, and practiced basic relationships. Tomorrow, I'll learn how to implement it with NodeJS.
  
 
-### Day  #100DaysOfCode
+### Day69  #100DaysOfCode
+
+Learnt how to install the native mongoDB driver into NodeJS. Practiced inserting and finding documents. Kinda hard to visualize. Next up, Mongoose.
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
