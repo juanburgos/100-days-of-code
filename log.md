@@ -554,6 +554,12 @@ Completed blog site challenges 20 & 21. Big boss challenge is complete! HTML, CS
 
 Started learning SQL basic CRUD commands. Establishing relationships, foreign keys and inner joins between tables. Also, learnt the basic differences between SQL and NOSQL databases. Next up, is MongoDB. 
 
+### Day68  #100DaysOfCode
+
+Installed MongoDB, learned the basic CRUD shell commands, and practiced basic relationships. Tomorrow, I'll learn how to implement it with NodeJS.
+ 
+
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
