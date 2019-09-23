@@ -564,6 +564,12 @@ Installed MongoDB, learned the basic CRUD shell commands, and practiced basic re
 Learnt how to install the native mongoDB driver into NodeJS. Practiced inserting and finding documents. Kinda hard to visualize. Next up, Mongoose.
 
 
+### Day70  #100DaysOfCode
+
+Intro to Mongoose and using it to read from the database. Today is the first day that I had to review the info several times before I understood what was going on. And that left me behind on time. I guess my brain needs to rest. 
+
+
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
