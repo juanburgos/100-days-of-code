@@ -568,7 +568,15 @@ Learnt how to install the native mongoDB driver into NodeJS. Practiced inserting
 
 Intro to Mongoose and using it to read from the database. Today is the first day that I had to review the info several times before I understood what was going on. And that left me behind on time. I guess my brain needs to rest. 
 
+### Day70 pt. 2 #100DaysOfCode
 
+Couldn't hold myself and went back for more. Practiced data validation with Mongoose, updating & deleting data, establishing relationships & embedding documents. Next, will be implementing DBs to my previous ToDo List and blog website. Later!
+
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
