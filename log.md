@@ -573,8 +573,16 @@ Intro to Mongoose and using it to read from the database. Today is the first day
 Couldn't hold myself and went back for more. Practiced data validation with Mongoose, updating & deleting data, establishing relationships & embedding documents. Next, will be implementing DBs to my previous ToDo List and blog website. Later!
 
 
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
+### Day71  #100DaysOfCode
+
+Retook the ToDo List project and connected it with Mongoose. Learnt how to add & render database items in the ToDo App. I'll continue tomorrow. I felt light-headed and like I was not able to understand well.
+
+
+### Day72  #100DaysOfCode
+
+Mongoose implementation: Deleting items from the ToDo List and creating custom lists using ExpressJS route parameters.
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
