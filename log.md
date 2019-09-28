@@ -583,7 +583,15 @@ Retook the ToDo List project and connected it with Mongoose. Learnt how to add &
 Mongoose implementation: Deleting items from the ToDo List and creating custom lists using ExpressJS route parameters.
 
 
-### Day  #100DaysOfCode
+### Day73  #100DaysOfCode
+
+ToDo List v.2: I made a mistake in my code and the app crashed. Never able to find the error, I started it from scratch. Mad at first, but it was the perfect opportunity to review/practice everything learnt so far. Took control, followed along and finished it correctly.
+
+-  Add/delete new items to/from custom lists with the help of Lodash
+
+
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
