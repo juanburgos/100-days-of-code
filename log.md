@@ -590,9 +590,11 @@ ToDo List v.2: I made a mistake in my code and the app crashed. Never able to fi
 -  Add/delete new items to/from custom lists with the help of Lodash
 
 
+### Day74  #100DaysOfCode
+
+Deployed the To-Do List with MongoDB Atlas & Heroku. It was really fun to test the app live. 
 
 
-### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
