@@ -595,6 +595,14 @@ ToDo List v.2: I made a mistake in my code and the app crashed. Never able to fi
 Deployed the To-Do List with MongoDB Atlas & Heroku. It was really fun to test the app live. 
 
 
+### Day75  #100DaysOfCode
+
+Upgraded the blog site project by giving it a database using MongoDB & Mongoose. Was able to render each post based on the post ID and using it to give a dynamic URL to each post. Next up, Building my own API using RESTful.
+
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
