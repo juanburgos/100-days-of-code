@@ -608,7 +608,10 @@ Started learning about RESTful APIs.
 
 Created database with Robo 3T. Installed Postman. Practiced GET, POST, DEL all articles. Learnt to GET a specific article and using chained route handlers using Express. 
 
-### Day  #100DaysOfCode
+### Day78  #100DaysOfCode
+
+RESTful API - learnt to PUT, PATCH, DEL a specific article on database successfully ending the creation of my first RESTful API. Next, authentication & security. Now, time for a well earned beer.
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
