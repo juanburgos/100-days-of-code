@@ -600,8 +600,14 @@ Deployed the To-Do List with MongoDB Atlas & Heroku. It was really fun to test t
 Upgraded the blog site project by giving it a database using MongoDB & Mongoose. Was able to render each post based on the post ID and using it to give a dynamic URL to each post. Next up, Building my own API using RESTful.
 
 
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
+### Day76  #100DaysOfCode
+
+Started learning about RESTful APIs. 
+
+### Day77  #100DaysOfCode
+
+Created database with Robo 3T. Installed Postman. Practiced GET, POST, DEL all articles. Learnt to GET a specific article and using chained route handlers using Express. 
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
