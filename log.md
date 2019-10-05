@@ -612,6 +612,13 @@ Created database with Robo 3T. Installed Postman. Practiced GET, POST, DEL all a
 
 RESTful API - learnt to PUT, PATCH, DEL a specific article on database successfully ending the creation of my first RESTful API. Next, authentication & security. Now, time for a well earned beer.
 
+### Day79  #100DaysOfCode
+
+Plunged into authentication & security. Setup my project page and ready to start learning the back-end of registering/authenticating a user using databases.
+
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
