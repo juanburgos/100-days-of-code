@@ -617,7 +617,12 @@ RESTful API - learnt to PUT, PATCH, DEL a specific article on database successfu
 Plunged into authentication & security. Setup my project page and ready to start learning the back-end of registering/authenticating a user using databases.
 
 
-### Day  #100DaysOfCode
+### Day80  #100DaysOfCode
+
+Learnt Lv.1 authentication - Registering with username and password, Lv.2 - Database encryption, using environment variables, Lv.3 - hashing passwords.
+
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
