@@ -623,8 +623,16 @@ Learnt Lv.1 authentication - Registering with username and password, Lv.2 - Data
 
 
 
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
+### Day81  #100DaysOfCode
+
+I upgraded overnight to macOS Catalina. Now my MongoDB doesn't work because of the new file system. I guess I'll spend the rest of my day figuring out how to get it to work again.
+
+
+### Day82  #100DaysOfCode
+
+Lv.4 Authentication - Hashing+Salting passwords w/ md5 vs. bcrypt w/ 10 salt rounds. Lv.5 - Cookies & sessions using Passport.js
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
