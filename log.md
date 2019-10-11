@@ -633,6 +633,18 @@ I upgraded overnight to macOS Catalina. Now my MongoDB doesn't work because of t
 Lv.4 Authentication - Hashing+Salting passwords w/ md5 vs. bcrypt w/ 10 salt rounds. Lv.5 - Cookies & sessions using Passport.js
 
 
+### Day83  #100DaysOfCode
+
+Restored my mongoDB. Learnt Lv. 6 authentication - OAuth 2.0 & Sign in w/ Google.
+
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
