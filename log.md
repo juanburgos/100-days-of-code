@@ -638,7 +638,10 @@ Lv.4 Authentication - Hashing+Salting passwords w/ md5 vs. bcrypt w/ 10 salt rou
 Restored my mongoDB. Learnt Lv. 6 authentication - OAuth 2.0 & Sign in w/ Google.
 
 
-### Day  #100DaysOfCode
+### Day84  #100DaysOfCode
+
+Finished setting up Sign in w/ Google to the practice web site. Wow! My brain is fried and I feel tired. Time to rest.
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
