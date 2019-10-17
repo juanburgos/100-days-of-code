@@ -642,9 +642,21 @@ Restored my mongoDB. Learnt Lv. 6 authentication - OAuth 2.0 & Sign in w/ Google
 
 Finished setting up Sign in w/ Google to the practice web site. Wow! My brain is fried and I feel tired. Time to rest.
 
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
+### Day85  #100DaysOfCode
+
+Done with the basics of authentication and OAuth. Starting now an intro to design. Stay classy!
+
+### Day86  #100DaysOfCode
+
+Designer thinking, color palettes, combining colors properly, basic typography & combining fonts. UI & UX basics.
+
+### Day87  #100DaysOfCode
+
+Yesterday, I finished with Angela Yu's The Complete 2019 Web Development Bootcamp in Udemy. The first goal of my career change roadmap. I enjoyed every bit of it and learnt everything that I wasn't able to learn before at a coding bootcamp (R.I.P. The Iron Yard). 
+
+There's still so much work left for me to do in order to reach my mayor goal of launching my career as a Fullstack Web Developer, but I feel darn good about the progress that I am making. I'm taking the day to plan my next move. 
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
