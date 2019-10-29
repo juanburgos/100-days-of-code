@@ -657,7 +657,11 @@ Yesterday, I finished with Angela Yu's The Complete 2019 Web Development Bootcam
 There's still so much work left for me to do in order to reach my mayor goal of launching my career as a Fullstack Web Developer, but I feel darn good about the progress that I am making. I'm taking the day to plan my next move. 
 
 
-### Day  #100DaysOfCode
+### Day88  #100DaysOfCode
+
+After a long break from coding (DIY home remodel and such), I went back to Free Code Camp and continued with the Responsive Web Design Projects. Felt good to review the basics.
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
