@@ -662,8 +662,14 @@ There's still so much work left for me to do in order to reach my mayor goal of 
 After a long break from coding (DIY home remodel and such), I went back to Free Code Camp and continued with the Responsive Web Design Projects. Felt good to review the basics.
 
 
-### Day  #100DaysOfCode
-### Day  #100DaysOfCode
+### Day89  #100DaysOfCode
+
+Finished the Build a Survey Form challenge and started the Build a Product Landing Page one from Free Code Camp. Mostly reviewing old material, but challenging my designer side which needs lots of practice.
+
+### Day90  #100DaysOfCode
+
+Played around with bootstrap. Practiced with different nav settings. Nothing fancy, just getting more comfortable with it. Also did a couple of JavaScript exercises on Free Code Camp.
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
