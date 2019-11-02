@@ -670,6 +670,14 @@ Finished the Build a Survey Form challenge and started the Build a Product Landi
 
 Played around with bootstrap. Practiced with different nav settings. Nothing fancy, just getting more comfortable with it. Also did a couple of JavaScript exercises on Free Code Camp.
 
+### Day91  #100DaysOfCode
+
+Continued with JavaScript on Free Code Camp. Made some progress with the Product Landing Page. Aiming to finish the Responsive Web Design Projects before I reach day 101.
+
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
