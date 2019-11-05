@@ -675,7 +675,12 @@ Played around with bootstrap. Practiced with different nav settings. Nothing fan
 Continued with JavaScript on Free Code Camp. Made some progress with the Product Landing Page. Aiming to finish the Responsive Web Design Projects before I reach day 101.
 
 
-### Day  #100DaysOfCode
+### Day92  #100DaysOfCode
+
+Finished with the Product Landing Page Project on Free Code Camp. Took me more time than I would have wanted to, but I dug deep into Flex, Grid, and Cards. Much needed practice, nevertheless.
+
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
