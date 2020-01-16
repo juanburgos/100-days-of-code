@@ -681,7 +681,11 @@ Finished with the Product Landing Page Project on Free Code Camp. Took me more t
 
 
 
-### Day  #100DaysOfCode
+### Day93  #100DaysOfCode
+
+Nice to be back at coding. Finished the Technical Documentation Page challenge for FCC. Felt a bit rusty and refreshed at the same time. I guess it's good to take breaks from learning and reset every once in a while. Now on to the next challenge!
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
