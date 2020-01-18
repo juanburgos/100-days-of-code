@@ -688,8 +688,17 @@ Nice to be back at coding. Finished the Technical Documentation Page challenge f
 
 ### Day94  #100DaysOfCode
 
-Finished the last Responsive Web Design Challenge on FCC. I finally earned my certificate!
+Finished the last Responsive Web Design Challenge on FCC. I finally earned my certificate! Tomorrow I will reflect on which pending course I'll do next.
 
+### Day95  #100DaysOfCode
+
+Did some Basic JavaScript exercises on FCC.
+
+Installed Android Studio & Emulator to work with Flutter.
+
+
+### Day  #100DaysOfCode
+### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
