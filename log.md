@@ -697,7 +697,14 @@ Did some Basic JavaScript exercises on FCC.
 Installed Android Studio & Emulator to work with Flutter.
 
 
-### Day  #100DaysOfCode
+### Day96  #100DaysOfCode
+
+Did some Basic JavaScript exercises on FCC.
+
+Installed Xcode and Command Line tools to use the iOS simulator with my future Flutter projects.
+
+
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
