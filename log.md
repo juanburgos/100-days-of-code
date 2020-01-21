@@ -705,7 +705,12 @@ Installed Xcode and Command Line tools to use the iOS simulator with my future F
 
 
 
-### Day  #100DaysOfCode
+### Day97  #100DaysOfCode
+
+52% done with Basic JavaScript exercises on FCC.
+
+Configured Android Studio for Flutter development and took the guided starting tour to familiarize myself with it. Hopefully tomorrow I'll start building a Flutter app.
+
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
 ### Day  #100DaysOfCode
