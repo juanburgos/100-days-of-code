@@ -727,5 +727,8 @@ Had a busy Thursday, but managed to do at least an hour of coding. Tomorrow, I w
 83% done with Basic JavaScript exercises on FCC.
 
 
+### Day100  #100DaysOfCode
 
-### Day  #100DaysOfCode
+Made a blog post on Hashnode about my experience in coding so far.
+
+[Link to post](https://juan.hashnode.dev/a-coding-boot-camp-dropout-ck6ej20wg00th3cs198p9nhsc)
