@@ -720,5 +720,12 @@ Wrote my first lines of code in React.js, yey! Getting to know JSX, ES6 & Babel.
 Learnt how to create a new Flutter Project from scratch and displayed my first "Hello World!".
 
 
-### Day  #100DaysOfCode
+### Day99  #100DaysOfCode
+
+Had a busy Thursday, but managed to do at least an hour of coding. Tomorrow, I will take the day to reflect on my 100DaysOfCode journey. Maybe I'll make a blog post about it.
+
+83% done with Basic JavaScript exercises on FCC.
+
+
+
 ### Day  #100DaysOfCode
