@@ -19,7 +19,11 @@ Learnt about inline styling for React elements. Completed the challenge where I 
 
 Learnt to build and use React Components. It was easy to understand and very useful.
 
-### R2 Day
+### R2 Day05
+
+Practiced React components by rewriting the code from the previous lesson and reorganizing it into their respective components. Nice workout! I also liked how neat everything looks now.
+
+
 ### R2 Day
 ### R2 Day
 ### R2 Day
